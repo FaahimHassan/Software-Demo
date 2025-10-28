@@ -1,0 +1,7 @@
+My name is Fahim
+This is my 7 th semester
+I took 3 courses.
+1.Digital Logic Circuits- A+
+2.Object oriented Programming 2-A
+3.Computational Statistics and Probability-A+
+4.Digital Logic Circuits Lab-A+
